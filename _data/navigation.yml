@@ -8,17 +8,17 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     
-  - title: "Working Papers"
-    url: /working_papers/
+  # - title: "Working Papers"
+  #   url: /working_papers/
 
-  - title: "Honors and Awards"
-    url: /honors_and_awards/
+  # - title: "Honors and Awards"
+  #   url: /honors_and_awards/
 
-  - title: "Scholarship"
-    url: /scholarship/
+  # - title: "Scholarship"
+  #   url: /scholarship/
 
   # - title: "Talks"
   #   url: /talks/    
