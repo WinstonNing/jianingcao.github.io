@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 09.2024 - Present, **The Hong Kong Polytechnic University**
   - Master of Science in Supply Chain Logistics Management
 
@@ -19,6 +20,7 @@ Education
 
 Research Interests
 ======
+
 Operations Research in Urban Transportation
 ===
   - Electric vehicle charging scheduling optimization
@@ -29,6 +31,10 @@ Operations Research under Uncertainty
 ===
   - Predict-then-Optimize
   - Robust optimization
+
+Selected Research Berif
+======
+
 
 Publications
 ======
