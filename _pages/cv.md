@@ -30,6 +30,7 @@ redirect_from:
 
 ## Publications
 _*: Corresponding author_
+
 **Cao, J.**, Han, Y., Pan, N., Zhang, J. & Yang, J. (2024). [A data-driven approach to urban charging
 facility expansion based on bi-level optimization: A case study in a Chinese city](https://doi.org/10.1016/j.energy.2024.131529). Energy.
 300, 131529. (JCR Q1)
