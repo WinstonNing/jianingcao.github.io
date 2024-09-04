@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## Study Certificate
 2023 MIT Blended Learning Live Session Series
 
 2023 MIT Blended Learning Base SPOC (small private online course): Machine Learning Modeling, and Simulation Principles
