@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## Scholarship
 2022 Chi Wah* Outstanding Students Scholarship
 
 2022 Chi Wah* Outstanding Social Work Scholarship
