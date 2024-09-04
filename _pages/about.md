@@ -17,4 +17,8 @@ routing optimization, and etc.
 This cutting-edge research is not only theoretically significant but also has practical implications for enhancing operational efficiency and resilience in real-world scenarios. 
 As I continue to expand my academic and research profile, I am eager to collaborate with peers and professionals in the field, and to contribute to the operations research.
 
+You can find my CV here: [Jianing Cao's CV.](../assets/CV-JianingCao.pdf)
+
 You can also find my profile in [Google Scholar](https://scholar.google.com/citations?user=VDvwDC8AAAAJ&hl=en).
+
+Email in PolyU: [jianing.cao@connect.polyu.hk](mailto:jianing.cao@connect.polyu.hk)
