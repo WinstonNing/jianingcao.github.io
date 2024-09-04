@@ -21,7 +21,7 @@ main:
     url: /scholarship/
 
   - title: "Study Certificates"
-   url: /study_certificates/
+    url: /study_certificates/
   # - title: "Talks"
   #   url: /talks/    
 
