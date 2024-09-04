@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## Honors and Awards
 2024 Finalist for "Top10 Excellent Students of the Year - KUST"
 
 2023 Nominated for "Top10 Excellent Students of the Year - KUST"
