@@ -45,9 +45,3 @@ Industry 5.0](https://doi.org/10.1109/TII.2022.3142723). IEEE Transactions on In
 Yang, X., Ye, X., **Cao, J.***, Yan, R., Guo, X. & Huang, J. (2022). [High-altitude Inspection
 Technology of Substation Based on Fusion of Unmanned Aerial Vehicle and Multiple
 Sensors](https://doi.org/10.18494/SAM3933). Sensors and Materials. 34 (8), 3191. (JCR Q4)
-
-## Coming Paper
-**Cao, J.**, Zhang, M., Pan, N.*, Han, Y., Liu, J., He, Z., & Ai, Z. (2024). Optimization of Three-
-echelon Logistics Supply Chain Considering Emergency Scenarios Under Resilience
-Strategy: A Case Study in Power Metering Industry. Computers & Industrial Engineering.
-(JCR Q1) Status: 2nd Peer-Review
