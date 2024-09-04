@@ -18,3 +18,20 @@ This cutting-edge research is not only theoretically significant but also has pr
 As I continue to expand my academic and research profile, I am eager to collaborate with peers and professionals in the field, and to contribute to the operations research.
 
 You can also find my profile in [Google Scholar](https://scholar.google.com/citations?user=VDvwDC8AAAAJ&hl=en).
+
+## Education
+09.2024 - Present, **The Hong Kong Polytechnic University**
+  - Master of Science in Supply Chain Logistics Management
+
+09.2020 - 07.2024, **Kunming University of Science and Technology**
+  - Bachelar of Engineering in Mechanical Engineering, GPA: 3.49/4 (Ranking 2/78)
+
+## Research Interests
+- Operations Research in Urban Transportation
+  - Electric vehicle charging scheduling optimization
+  - Charging facility location problem
+  - Drone-based logitics system application and routing optimization
+
+- Operations Research under Uncertainty
+  - Predict-then-Optimize
+  - Robust optimization
