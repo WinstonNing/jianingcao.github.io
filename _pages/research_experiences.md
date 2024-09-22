@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Charging Post Precise Siting Project of Yunnan Province
+# Charging Stations Precise Siting Project of Yunnan Province
 Supervisor: Dr. Nan Pan
 
 China Southern Power Grid Co., Ltd.
