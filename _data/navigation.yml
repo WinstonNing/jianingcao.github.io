@@ -12,6 +12,9 @@ main:
 
   - title: "Research Interests"
     url: /research_interests/
+
+  - title: "Research Experiences"
+    url: /research_experiences
     
   - title: "Publications"
     url: /publications/
