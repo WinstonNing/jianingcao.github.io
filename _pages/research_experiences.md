@@ -21,7 +21,7 @@ Paper: Cao, J., Han, Y., Pan, N.*, Zhang, J. & Yang, J. (2024). [A data-driven a
 Supervisor: Dr. Nan Pan
 
 China Southern Power Grid Co., Ltd.
-1.	Analysis existing power metering devices distribution pattern
+1.	Analyzed existing power metering devices distribution pattern
 2.	Developed a mathematics model for power supply bureaus and stations to determine the inventory and optimize the distribution plan
 3.	Designed a resilience strategy to enhance the reliability in the emergency scenarios
 4.	Developed a novel heuristics algorithm to solve the established model
