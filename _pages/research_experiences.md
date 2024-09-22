@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Research Experiences"
+permalink: /research_experiences/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 # Charging Post Precise Siting Project of Yunnan Province
 Supervisor: Dr. Nan Pan
 
