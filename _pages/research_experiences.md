@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### Charging Stations Precise Siting Project of Yunnan Province
+## Charging Stations Precise Siting Project of Yunnan Province
 Supervisor: Dr. Nan Pan
 
 China Southern Power Grid Co., Ltd.
@@ -17,7 +17,7 @@ China Southern Power Grid Co., Ltd.
 4.	Identified the expansion plan of urban charging facilities using Python
 
 Paper: Cao, J., Han, Y., Pan, N.*, Zhang, J. & Yang, J. (2024). [A data-driven approach to urban charging facility expansion based on bi-level optimization: A case study in a Chinese city](https://doi.org/10.1016/j.energy.2024.131529). Energy. 300, 131529. (JCR Q1)
-### Supply Chain Logistics Optimization for Power Metering Devices
+## Supply Chain Logistics Optimization for Power Metering Devices
 Supervisor: Dr. Nan Pan
 
 China Southern Power Grid Co., Ltd.
