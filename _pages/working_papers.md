@@ -9,7 +9,7 @@ redirect_from:
 ## Coming Paper
 **Cao, J.**, Zhang, M., Pan, N., Han, Y., Liu, J., He, Z., & Ai, Z. (2024). Optimization of Three-
 echelon Logistics Supply Chain Considering Emergency Scenarios Under Resilience
-Strategy: A Case Study in Power Metering Industry. Computers & Industrial Engineering.
+Strategy: A Case Study in Power Metering Industry. _Computers & Industrial Engineering_.
 (JCR Q1) Under Second Round Revise-resubmit
 
 ## In Progress
